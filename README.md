@@ -1,6 +1,6 @@
-username: root
-password: sapassword
-Áp dụng servlet + jpa
+# username: root
+# password: sapassword
+# Áp dụng servlet + jpa
 - Đăng nhập, đăng xuất
 - Hiển thị thông tin tài khoản nếu là user
 - Hiển thị dashboar quản lý account nếu là admin
